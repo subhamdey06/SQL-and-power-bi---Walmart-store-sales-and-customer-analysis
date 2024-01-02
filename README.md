@@ -1,3 +1,5 @@
+Project overview
+
 1) Sales Trends Unveiled: By scrutinizing total sales and product line preferences, we uncovered invaluable insights into the store's revenue streams and identified top-performing categories.
 
 2)Financial Health Check: In assessing costs, gross margin, and gross income, we gained a profound understanding of the store's financial health, enabling strategic decision-making.
